@@ -126,6 +126,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8937-common/proprietary/lib64/com.qualcomm.qti.imscmservice@2.1.so:system/lib64/com.qualcomm.qti.imscmservice@2.1.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/com.qualcomm.qti.uceservice@2.0.so:system/lib64/com.qualcomm.qti.uceservice@2.0.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/extractors/libmmparser.so:system/lib64/extractors/libmmparser.so \
+    vendor/xiaomi/msm8937-common/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/msm8937-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/lib-imscamera.so:system/lib64/lib-imscamera.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/lib-imsvideocodec.so:system/lib64/lib-imsvideocodec.so \
     vendor/xiaomi/msm8937-common/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
