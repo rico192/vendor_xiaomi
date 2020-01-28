@@ -820,7 +820,6 @@ PRODUCT_PACKAGES += \
     uceShimService \
     CNEService \
     WfdService \
-    com.qualcomm.location \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
