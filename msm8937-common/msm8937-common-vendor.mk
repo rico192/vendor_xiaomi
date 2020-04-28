@@ -62,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8937-common/proprietary/lib/libdpmfdmgr.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdpmfdmgr.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libdpmframework.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdpmframework.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libdpmtcm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdpmtcm.so \
+    vendor/xiaomi/msm8937-common/proprietary/lib/extractors/libmmparserextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib/extractors/libmmparserextractor.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libimscamera_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimscamera_jni.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimsmedia_jni.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/liblocationservice_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liblocationservice_jni.so \
